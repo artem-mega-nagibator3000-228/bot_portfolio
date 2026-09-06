@@ -1,1 +1,2 @@
-DB = "bot.db"
+DATABASE = "bot.db"
+TOKEN = ""
